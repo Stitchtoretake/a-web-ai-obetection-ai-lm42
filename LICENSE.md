@@ -1,4 +1,4 @@
-# 
+# Mis à jour A web AI object detection scripts. Avec vision par ordinateur et reconnaissance d'images — optimisé pour des performances maximales.
 
 
 
